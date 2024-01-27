@@ -1,0 +1,133 @@
+element.style {
+}
+<style>
+#dynamic-tagline-184893 {
+    font-size: 64px !important;
+}
+@media (max-width: 767px)
+.x .c1-94 {
+    padding-bottom: 16px;
+}
+@media (max-width: 767px)
+.x .c1-93 {
+    border-color: rgb(247, 247, 247);
+}
+@media (max-width: 767px)
+.x .c1-92 {
+    border-bottom-width: 1px;
+}
+@media (max-width: 767px)
+.x .c1-91 {
+    border-bottom-style: solid;
+}
+.x .c1-90 {
+    font-size: 40px;
+}
+.x .c1-8z {
+    white-space: pre-line;
+}
+.x .c1-8m {
+    text-align: center;
+}
+.x .c1-4a {
+    margin-right: auto;
+}
+.x .c1-49 {
+    margin-left: auto;
+}
+.x .c1-32 {
+    font-weight: 400;
+}
+.x .c1-30 {
+    color: rgb(247, 247, 247);
+}
+.x .c1-2z {
+    line-height: 1.2;
+}
+.x .c1-2o {
+    word-wrap: break-word;
+}
+.x .c1-2h {
+    max-width: 100%;
+}
+.x .c1-2g {
+    font-family: 'Lato', arial, sans-serif;
+}
+.x .c1-2f {
+    display: inline-block;
+}
+.x .c1-2e {
+    text-transform: uppercase;
+}
+.x .c1-2d {
+    letter-spacing: 1px;
+}
+.x .c1-2a {
+    overflow-wrap: break-word;
+}
+.x .c1-24 {
+    margin-bottom: 0px;
+}
+.x .c1-22 {
+    margin-top: 0px;
+}
+.x .c1-p {
+    position: relative;
+}
+.x .c1-4 {
+    width: 100%;
+}
+.x *, .x :after, .x :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+:-webkit-any(article, aside, nav, section) h1 {
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+}
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.x .c1-c {
+    font-size: 16px;
+}
+.x .c1-b {
+    font-family: 'Lusitana', Georgia, serif;
+}
+.x .c1-2 {
+    text-transform: none;
+}
+.x .c1-1 {
+    letter-spacing: normal;
+}
+.x .c1-z {
+    text-shadow: none;
+}
+.x {
+    -webkit-font-smoothing: antialiased;
+}
+.x {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    margin: 0;
+    box-sizing: border-box;
+}
+injected stylesheet
+:host, :root {
+    --rem: 16;
+}
+.x *, .x :after, .x :before {
+    box-sizing: inherit;
+}
+.x *, .x :after, .x :before {
+    box-sizing: inherit;
+}
